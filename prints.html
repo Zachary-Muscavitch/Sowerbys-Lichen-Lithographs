@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Prints</title>
+
+  <!-- Lightbox2 CSS -->
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet">
+
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f0f0f0;
+    }
+    .gallery {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      justify-content: center;
+      padding: 10px;
+    }
+    .gallery-item {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      text-align: center;
+    }
+    .gallery img {
+      width: 200px;
+      height: 250px;
+      object-fit: cover;
+      border-radius: 10px;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    }
+    .caption {
+      margin-top: 5px;
+      font-size: 14px;
+      color: #333;
+      width: 200px;
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="gallery" id="gallery"></div>
+
+  <!-- Lightbox2 JavaScript -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
+
+  <script>
+    // Fetch the images JSON file
+    fetch('images.json')
+      .then(response => response.json())
+      .then(images => {
+        const galleryElement = document.getElementById('gallery');
+        images.forEach(image => {
+          // Create an anchor element to link to the full-size image
+          const linkElement = document.createElement('a');
+          linkElement.href = `images/${image.filename}`;
+          linkElement.setAttribute('data-lightbox', 'gallery');
+          linkElement.setAttribute('data-title', image.alt);
+
+          // Create an image element for the thumbnail
+          const imgElement = document.createElement('img');
+          imgElement.src = `images/${image.filename}`;
+          imgElement.alt = image.alt;
+
+          // Create a div for the caption text
+          const captionElement = document.createElement('div');
+          captionElement.classList.add('caption');
+          captionElement.textContent = image.alt;
+
+          // Create a gallery item div and append the image and caption
+          const galleryItem = document.createElement('div');
+          galleryItem.classList.add('gallery-item');
+          linkElement.appendChild(imgElement); // Wrap image with the link
+          galleryItem.appendChild(linkElement); // Add the link to the gallery item
+          galleryItem.appendChild(captionElement); // Add caption
+
+          galleryElement.appendChild(galleryItem); // Append to the gallery
+        });
+      })
+      .catch(error => console.error('Error loading images:', error));
+  </script>
+
+</body>
+</html>
