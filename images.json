@@ -702,13 +702,5 @@
   {
     "filename": "Sowerbys_Botany_paper_front.jpg",
     "alt": "Sowerbys Botany paper front"
-  },
-  {
-    "filename": "images.json",
-    "alt": "images"
-  },
-  {
-    "filename": "make_json_file.sh",
-    "alt": "make json file"
   }
 ]
