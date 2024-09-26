@@ -1,22 +1,714 @@
 [
   {
     "filename": "160_Porina pertusa_Pertusaria communis.jpg",
-    "alt": "Porina pertusa and Pertusaria communis"
+    "alt": "160 Porina pertusa Pertusaria communis"
   },
   {
     "filename": "161_Porina hymena_Pertusaria fallax.jpg",
-    "alt": "Porina hymena and Pertusaria fallax"
+    "alt": "161 Porina hymena Pertusaria fallax"
   },
   {
     "filename": "162_Thelotrema lepadinum.jpg",
-    "alt": "Thelotrema lepadinum"
+    "alt": "162 Thelotrema lepadinum"
   },
   {
     "filename": "163_Thelotrema exanthematicum.jpg",
-    "alt": "Thelotrema exanthematicum"
+    "alt": "163 Thelotrema exanthematicum"
   },
   {
     "filename": "164_Thelotrema agelaum.jpg",
-    "alt": "Thelotrema agelaum"
+    "alt": "164 Thelotrema agelaum"
+  },
+  {
+    "filename": "165_Thelotrema melaleucum.jpg",
+    "alt": "165 Thelotrema melaleucum"
+  },
+  {
+    "filename": "166_Pyrenula umbrosum.jpg",
+    "alt": "166 Pyrenula umbrosum"
+  },
+  {
+    "filename": "167_Pyrenula.jpg",
+    "alt": "167 Pyrenula"
+  },
+  {
+    "filename": "168_Pyrenula nigrescens.jpg",
+    "alt": "168 Pyrenula nigrescens"
+  },
+  {
+    "filename": "169_Variolaria velata.jpg",
+    "alt": "169 Variolaria velata"
+  },
+  {
+    "filename": "170_Variolaria multipuncta.jpg",
+    "alt": "170 Variolaria multipuncta"
+  },
+  {
+    "filename": "171_Variolaria globulifera.jpg",
+    "alt": "171 Variolaria globulifera"
+  },
+  {
+    "filename": "172_Variolaria amara.jpg",
+    "alt": "172 Variolaria amara"
+  },
+  {
+    "filename": "173_Variolaria discoidea.jpg",
+    "alt": "173 Variolaria discoidea"
+  },
+  {
+    "filename": "174_Variolaria aspergila.jpg",
+    "alt": "174 Variolaria aspergila"
+  },
+  {
+    "filename": "175_Variolaria.jpg",
+    "alt": "175 Variolaria"
+  },
+  {
+    "filename": "176_Variolaria corallina.jpg",
+    "alt": "176 Variolaria corallina"
+  },
+  {
+    "filename": "177_Variolaria cinerea.jpg",
+    "alt": "177 Variolaria cinerea"
+  },
+  {
+    "filename": "178_Variolaria griseo-virens.jpg",
+    "alt": "178 Variolaria griseo-virens"
+  },
+  {
+    "filename": "179_Urceolaria acharii.jpg",
+    "alt": "179 Urceolaria acharii"
+  },
+  {
+    "filename": "180_Urceolaria cyrtaspis.jpg",
+    "alt": "180 Urceolaria cyrtaspis"
+  },
+  {
+    "filename": "181_Urceolaria gibbosa.jpg",
+    "alt": "181 Urceolaria gibbosa"
+  },
+  {
+    "filename": "182_Urceolaria cinerea.jpg",
+    "alt": "182 Urceolaria cinerea"
+  },
+  {
+    "filename": "183_Urceolaria multipunctata.jpg",
+    "alt": "183 Urceolaria multipunctata"
+  },
+  {
+    "filename": "184_Urceolaria scruposa.jpg",
+    "alt": "184 Urceolaria scruposa"
+  },
+  {
+    "filename": "185_Urceolaria diacapsis.jpg",
+    "alt": "185 Urceolaria diacapsis"
+  },
+  {
+    "filename": "186_Urceolaria hoffmanni.jpg",
+    "alt": "186 Urceolaria hoffmanni"
+  },
+  {
+    "filename": "188_Urceloaria gapsi.jpg",
+    "alt": "188 Urceloaria gapsi"
+  },
+  {
+    "filename": "189_Lecanora atra.jpg",
+    "alt": "189 Lecanora atra"
+  },
+  {
+    "filename": "190_Leconara coarctata.jpg",
+    "alt": "190 Leconara coarctata"
+  },
+  {
+    "filename": "191_Lecanora_pa....jpg",
+    "alt": "191 Lecanora pa..."
+  },
+  {
+    "filename": "193_Lecanora exigua.jpg",
+    "alt": "193 Lecanora exigua"
+  },
+  {
+    "filename": "194_Lecanora p....jpg",
+    "alt": "194 Lecanora p..."
+  },
+  {
+    "filename": "195_Lecanora sophodes.jpg",
+    "alt": "195 Lecanora sophodes"
+  },
+  {
+    "filename": "196_Lecanora ventosa.jpg",
+    "alt": "196 Lecanora ventosa"
+  },
+  {
+    "filename": "197_Lecanora  subfusca.jpg",
+    "alt": "197 Lecanora  subfusca"
+  },
+  {
+    "filename": "198_Lecanora frustulosa.jpg",
+    "alt": "198 Lecanora frustulosa"
+  },
+  {
+    "filename": "199_Lecanora effusa.jpg",
+    "alt": "199 Lecanora effusa"
+  },
+  {
+    "filename": "200_Lecanora chloroleuca.jpg",
+    "alt": "200 Lecanora chloroleuca"
+  },
+  {
+    "filename": "201_Lecanora varia.jpg",
+    "alt": "201 Lecanora varia"
+  },
+  {
+    "filename": "202_Lecanora rubricosa.jpg",
+    "alt": "202 Lecanora rubricosa"
+  },
+  {
+    "filename": "203_Lecanora tuberculosa.jpg",
+    "alt": "203 Lecanora tuberculosa"
+  },
+  {
+    "filename": "204_Lecanora glaucoma.jpg",
+    "alt": "204 Lecanora glaucoma"
+  },
+  {
+    "filename": "205_Lecanora albella.jpg",
+    "alt": "205 Lecanora albella"
+  },
+  {
+    "filename": "206_Lecanora perella.jpg",
+    "alt": "206 Lecanora perella"
+  },
+  {
+    "filename": "207_Lecanora upsaliensis.jpg",
+    "alt": "207 Lecanora upsaliensis"
+  },
+  {
+    "filename": "208_Lecanora turneri.jpg",
+    "alt": "208 Lecanora turneri"
+  },
+  {
+    "filename": "209_Lecanora carneo-lutea.jpg",
+    "alt": "209 Lecanora carneo-lutea"
+  },
+  {
+    "filename": "210_Lecanora tartarea.jpg",
+    "alt": "210 Lecanora tartarea"
+  },
+  {
+    "filename": "211_Lecanora frigida.jpg",
+    "alt": "211 Lecanora frigida"
+  },
+  {
+    "filename": "212_Lecanora stonei.jpg",
+    "alt": "212 Lecanora stonei"
+  },
+  {
+    "filename": "213_Lecanora cerina.jpg",
+    "alt": "213 Lecanora cerina"
+  },
+  {
+    "filename": "214_Lecanora vitellina.jpg",
+    "alt": "214 Lecanora vitellina"
+  },
+  {
+    "filename": "215_Lecanora salicina.jpg",
+    "alt": "215 Lecanora salicina"
+  },
+  {
+    "filename": "216_Lecanora erythella.jpg",
+    "alt": "216 Lecanora erythella"
+  },
+  {
+    "filename": "217_Lecanora citrina.jpg",
+    "alt": "217 Lecanora citrina"
+  },
+  {
+    "filename": "218_Lecanora rubra.jpg",
+    "alt": "218 Lecanora rubra"
+  },
+  {
+    "filename": "219_Lecanora coccina.jpg",
+    "alt": "219 Lecanora coccina"
+  },
+  {
+    "filename": "220_Lecanora eprigua.jpg",
+    "alt": "220 Lecanora eprigua"
+  },
+  {
+    "filename": "221_Lecanora lentigera.jpg",
+    "alt": "221 Lecanora lentigera"
+  },
+  {
+    "filename": "222_Lecanora saxicola.jpg",
+    "alt": "222 Lecanora saxicola"
+  },
+  {
+    "filename": "224_Lecanora elegans.jpg",
+    "alt": "224 Lecanora elegans"
+  },
+  {
+    "filename": "225_Lecanora fulgens.jpg",
+    "alt": "225 Lecanora fulgens"
+  },
+  {
+    "filename": "226_Lecanora gelida.jpg",
+    "alt": "226 Lecanora gelida"
+  },
+  {
+    "filename": "227_Lecanora circinniata.jpg",
+    "alt": "227 Lecanora circinniata"
+  },
+  {
+    "filename": "228_Lecanora dispersa.jpg",
+    "alt": "228 Lecanora dispersa"
+  },
+  {
+    "filename": "229_Lecanora cervina.jpg",
+    "alt": "229 Lecanora cervina"
+  },
+  {
+    "filename": "230_Lecanora crafia.jpg",
+    "alt": "230 Lecanora crafia"
+  },
+  {
+    "filename": "231_Lecanora crafia.jpg",
+    "alt": "231 Lecanora crafia"
+  },
+  {
+    "filename": "232_Lecanora polycarpa.jpg",
+    "alt": "232 Lecanora polycarpa"
+  },
+  {
+    "filename": "233_Lecanora hypnorum.jpg",
+    "alt": "233 Lecanora hypnorum"
+  },
+  {
+    "filename": "234_Lecanora muscorum.jpg",
+    "alt": "234 Lecanora muscorum"
+  },
+  {
+    "filename": "235_Lecanora brunnea.jpg",
+    "alt": "235 Lecanora brunnea"
+  },
+  {
+    "filename": "236_Parmelia glomulifera.jpg",
+    "alt": "236 Parmelia glomulifera"
+  },
+  {
+    "filename": "237_Parmelia caperata.jpg",
+    "alt": "237 Parmelia caperata"
+  },
+  {
+    "filename": "238_Parmelia late-virens.jpg",
+    "alt": "238 Parmelia late-virens"
+  },
+  {
+    "filename": "239_Parmelia late-virens.jpg",
+    "alt": "239 Parmelia late-virens"
+  },
+  {
+    "filename": "240_Parmelia scortia.jpg",
+    "alt": "240 Parmelia scortia"
+  },
+  {
+    "filename": "241_Parmelia perlata.jpg",
+    "alt": "241 Parmelia perlata"
+  },
+  {
+    "filename": "242_Parmelia perforata.jpg",
+    "alt": "242 Parmelia perforata"
+  },
+  {
+    "filename": "243_Parmelia tiliacea.jpg",
+    "alt": "243 Parmelia tiliacea"
+  },
+  {
+    "filename": "244_Parmelia conjugata.jpg",
+    "alt": "244 Parmelia conjugata"
+  },
+  {
+    "filename": "245_Parmelia olivacea.jpg",
+    "alt": "245 Parmelia olivacea"
+  },
+  {
+    "filename": "246_Parmelia parietina.jpg",
+    "alt": "246 Parmelia parietina"
+  },
+  {
+    "filename": "247_Parmelia elaina.jpg",
+    "alt": "247 Parmelia elaina"
+  },
+  {
+    "filename": "248_Parmelia pityrea.jpg",
+    "alt": "248 Parmelia pityrea"
+  },
+  {
+    "filename": "249_Parmelia clementiana.jpg",
+    "alt": "249 Parmelia clementiana"
+  },
+  {
+    "filename": "250_Parmelia plumbea.jpg",
+    "alt": "250 Parmelia plumbea"
+  },
+  {
+    "filename": "251_Parmelia rubiginosa.jpg",
+    "alt": "251 Parmelia rubiginosa"
+  },
+  {
+    "filename": "252_Parmelia omphalodes.jpg",
+    "alt": "252 Parmelia omphalodes"
+  },
+  {
+    "filename": "253_Parmelia saxatilis.jpg",
+    "alt": "253 Parmelia saxatilis"
+  },
+  {
+    "filename": "254_Parmelia hookeri.jpg",
+    "alt": "254 Parmelia hookeri"
+  },
+  {
+    "filename": "255_Parmelia fahluensis.jpg",
+    "alt": "255 Parmelia fahluensis"
+  },
+  {
+    "filename": "256_Parmelia stygia.jpg",
+    "alt": "256 Parmelia stygia"
+  },
+  {
+    "filename": "257_Parmelia aquila.jpg",
+    "alt": "257 Parmelia aquila"
+  },
+  {
+    "filename": "258_Parmelia encausta.jpg",
+    "alt": "258 Parmelia encausta"
+  },
+  {
+    "filename": "259_Parmelia recurva.jpg",
+    "alt": "259 Parmelia recurva"
+  },
+  {
+    "filename": "260_Parmelia sinuosa.jpg",
+    "alt": "260 Parmelia sinuosa"
+  },
+  {
+    "filename": "261_Parmelia aleurites.jpg",
+    "alt": "261 Parmelia aleurites"
+  },
+  {
+    "filename": "262_Parmellia conspersa.jpg",
+    "alt": "262 Parmellia conspersa"
+  },
+  {
+    "filename": "263_Parmelia speciosa.jpg",
+    "alt": "263 Parmelia speciosa"
+  },
+  {
+    "filename": "264_Parmelia lavigata.jpg",
+    "alt": "264 Parmelia lavigata"
+  },
+  {
+    "filename": "265_Parmelia pulverulenta.jpg",
+    "alt": "265 Parmelia pulverulenta"
+  },
+  {
+    "filename": "266_Parmelia stellaris.jpg",
+    "alt": "266 Parmelia stellaris"
+  },
+  {
+    "filename": "267_Parmelia casia.jpg",
+    "alt": "267 Parmelia casia"
+  },
+  {
+    "filename": "268_Parmelia cyclorhis.jpg",
+    "alt": "268 Parmelia cyclorhis"
+  },
+  {
+    "filename": "269_Parmelia virella.jpg",
+    "alt": "269 Parmelia virella"
+  },
+  {
+    "filename": "270_Parmelia physodes.jpg",
+    "alt": "270 Parmelia physodes"
+  },
+  {
+    "filename": "271_Parmelia diahypa.jpg",
+    "alt": "271 Parmelia diahypa"
+  },
+  {
+    "filename": "272_Borrera ciliaris.jpg",
+    "alt": "272 Borrera ciliaris"
+  },
+  {
+    "filename": "273_Borrera tenella.jpg",
+    "alt": "273 Borrera tenella"
+  },
+  {
+    "filename": "274_Borrera leucomella.jpg",
+    "alt": "274 Borrera leucomella"
+  },
+  {
+    "filename": "275_Borrera furfuracea.jpg",
+    "alt": "275 Borrera furfuracea"
+  },
+  {
+    "filename": "276_Borrera atlantica.jpg",
+    "alt": "276 Borrera atlantica"
+  },
+  {
+    "filename": "277_Borrera chrysophthalma.jpg",
+    "alt": "277 Borrera chrysophthalma"
+  },
+  {
+    "filename": "278_Borrera flavicans.jpg",
+    "alt": "278 Borrera flavicans"
+  },
+  {
+    "filename": "279_Cetraria pinastris.jpg",
+    "alt": "279 Cetraria pinastris"
+  },
+  {
+    "filename": "280_Cetraria sepinicola.jpg",
+    "alt": "280 Cetraria sepinicola"
+  },
+  {
+    "filename": "281_Cetraria glauca.jpg",
+    "alt": "281 Cetraria glauca"
+  },
+  {
+    "filename": "282_Cetraria fallax.jpg",
+    "alt": "282 Cetraria fallax"
+  },
+  {
+    "filename": "283_Cetraria nivalis.jpg",
+    "alt": "283 Cetraria nivalis"
+  },
+  {
+    "filename": "284_Cetrarla islandica.jpg",
+    "alt": "284 Cetrarla islandica"
+  },
+  {
+    "filename": "285_Sticta crocata.jpg",
+    "alt": "285 Sticta crocata"
+  },
+  {
+    "filename": "286_Sticta aurata.jpg",
+    "alt": "286 Sticta aurata"
+  },
+  {
+    "filename": "287_Sticta pulmonaria.jpg",
+    "alt": "287 Sticta pulmonaria"
+  },
+  {
+    "filename": "288_Sticta scrobiculata.jpg",
+    "alt": "288 Sticta scrobiculata"
+  },
+  {
+    "filename": "289_Sticta limbata.jpg",
+    "alt": "289 Sticta limbata"
+  },
+  {
+    "filename": "290_Sticta fuliginosa.jpg",
+    "alt": "290 Sticta fuliginosa"
+  },
+  {
+    "filename": "291_Sticta sylvatica.jpg",
+    "alt": "291 Sticta sylvatica"
+  },
+  {
+    "filename": "292_Peltidea venosa.jpg",
+    "alt": "292 Peltidea venosa"
+  },
+  {
+    "filename": "293_Peltidea scutata.jpg",
+    "alt": "293 Peltidea scutata"
+  },
+  {
+    "filename": "294_Peltidea horizontalis.jpg",
+    "alt": "294 Peltidea horizontalis"
+  },
+  {
+    "filename": "295_Peltidea aphthosa.jpg",
+    "alt": "295 Peltidea aphthosa"
+  },
+  {
+    "filename": "296_Peltidea canina.jpg",
+    "alt": "296 Peltidea canina"
+  },
+  {
+    "filename": "297_Peltidea rufescens.jpg",
+    "alt": "297 Peltidea rufescens"
+  },
+  {
+    "filename": "298_Peltidea spuria.jpg",
+    "alt": "298 Peltidea spuria"
+  },
+  {
+    "filename": "299_Nephroma resupinata.jpg",
+    "alt": "299 Nephroma resupinata"
+  },
+  {
+    "filename": "300_Nephroma parilis.jpg",
+    "alt": "300 Nephroma parilis"
+  },
+  {
+    "filename": "301_Rioccella tinctoria.jpg",
+    "alt": "301 Rioccella tinctoria"
+  },
+  {
+    "filename": "302_Rocella fuciformis.jpg",
+    "alt": "302 Rocella fuciformis"
+  },
+  {
+    "filename": "303_Evernia prunastri.jpg",
+    "alt": "303 Evernia prunastri"
+  },
+  {
+    "filename": "304_Evernia prunastri ß. strictoceros.jpg",
+    "alt": "304 Evernia prunastri ß. strictoceros"
+  },
+  {
+    "filename": "305_Cenomyce papillaria.jpg",
+    "alt": "305 Cenomyce papillaria"
+  },
+  {
+    "filename": "306_Cenomyce cespititia.jpg",
+    "alt": "306 Cenomyce cespititia"
+  },
+  {
+    "filename": "307_Cenomyce endiviafolia.jpg",
+    "alt": "307 Cenomyce endiviafolia"
+  },
+  {
+    "filename": "308_Cenomyce aleicornis.jpg",
+    "alt": "308 Cenomyce aleicornis"
+  },
+  {
+    "filename": "309_Cenomyce cervicornis.jpg",
+    "alt": "309 Cenomyce cervicornis"
+  },
+  {
+    "filename": "311_Cenomyce pyxidata.jpg",
+    "alt": "311 Cenomyce pyxidata"
+  },
+  {
+    "filename": "312_Cenomyce fimbriata.jpg",
+    "alt": "312 Cenomyce fimbriata"
+  },
+  {
+    "filename": "313_Cenomyce radiata.jpg",
+    "alt": "313 Cenomyce radiata"
+  },
+  {
+    "filename": "314_Cenomyce cornuta.jpg",
+    "alt": "314 Cenomyce cornuta"
+  },
+  {
+    "filename": "315_Cenomyce gracilis.jpg",
+    "alt": "315 Cenomyce gracilis"
+  },
+  {
+    "filename": "316_Cenomyce bacillaris.jpg",
+    "alt": "316 Cenomyce bacillaris"
+  },
+  {
+    "filename": "317_Cenomyce digitata.jpg",
+    "alt": "317 Cenomyce digitata"
+  },
+  {
+    "filename": "318_Cenomyce deformis.jpg",
+    "alt": "318 Cenomyce deformis"
+  },
+  {
+    "filename": "319_Cenomyce coccifera.jpg",
+    "alt": "319 Cenomyce coccifera"
+  },
+  {
+    "filename": "320_Cenomyce bellidiflora.jpg",
+    "alt": "320 Cenomyce bellidiflora"
+  },
+  {
+    "filename": "322_Cenomyce delicata.jpg",
+    "alt": "322 Cenomyce delicata"
+  },
+  {
+    "filename": "323_Cenomyce microphylla.jpg",
+    "alt": "323 Cenomyce microphylla"
+  },
+  {
+    "filename": "324_Cenomyce unciallis.jpg",
+    "alt": "324 Cenomyce unciallis"
+  },
+  {
+    "filename": "325_Cenomyce pungens.jpg",
+    "alt": "325 Cenomyce pungens"
+  },
+  {
+    "filename": "326_Cenomyce rangiferina.jpg",
+    "alt": "326 Cenomyce rangiferina"
+  },
+  {
+    "filename": "327_Cenomnyce vermicularis.jpg",
+    "alt": "327 Cenomnyce vermicularis"
+  },
+  {
+    "filename": "328_Baeomyces rufus.jpg",
+    "alt": "328 Baeomyces rufus"
+  },
+  {
+    "filename": "329_Baeomyces roseus.jpg",
+    "alt": "329 Baeomyces roseus"
+  },
+  {
+    "filename": "330_Isidium corallinum.jpg",
+    "alt": "330 Isidium corallinum"
+  },
+  {
+    "filename": "331_Isidium westringii.jpg",
+    "alt": "331 Isidium westringii"
+  },
+  {
+    "filename": "332_Isidium westringii ß punctatum.jpg",
+    "alt": "332 Isidium westringii ß punctatum"
+  },
+  {
+    "filename": "333_Isidium coccodes.jpg",
+    "alt": "333 Isidium coccodes"
+  },
+  {
+    "filename": "334_Isidiium oculatum.jpg",
+    "alt": "334 Isidiium oculatum"
+  },
+  {
+    "filename": "335_Stereocaulon paschale.jpg",
+    "alt": "335 Stereocaulon paschale"
+  },
+  {
+    "filename": "336_Spharophoron coralloides.jpg",
+    "alt": "336 Spharophoron coralloides"
+  },
+  {
+    "filename": "337_Spharophoron fragile.jpg",
+    "alt": "337 Spharophoron fragile"
+  },
+  {
+    "filename": "338_Spharophoron compressum.jpg",
+    "alt": "338 Spharophoron compressum"
+  },
+  {
+    "filename": "Sowerbys_Botany_paper_back.jpg",
+    "alt": "Sowerbys Botany paper back"
+  },
+  {
+    "filename": "Sowerbys_Botany_paper_front.jpg",
+    "alt": "Sowerbys Botany paper front"
+  },
+  {
+    "filename": "images.json",
+    "alt": "images"
+  },
+  {
+    "filename": "make_json_file.sh",
+    "alt": "make json file"
   }
 ]
