@@ -3,11 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Prints</title>
-
-  <!-- Lightbox2 CSS -->
-  <link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet">
-
+  <title>Sowerby's Botany</title>
   <style>
     body {
       font-family: Arial, sans-serif;
@@ -32,33 +28,17 @@
       background-color: #ddd;
       color: black;
     }
-    .gallery {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 10px;
-      justify-content: center;
-      padding: 10px;
-    }
-    .gallery-item {
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      justify-content: center;
+    h1 {
       text-align: center;
+      font-size: 36px;
+      margin-bottom: 20px;
     }
-    .gallery img {
-      width: 200px;
-      height: 200px;
-      object-fit: cover;
-      border-radius: 10px;
-      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    }
-    .caption {
-      margin-top: 5px;
-      font-size: 14px;
-      color: #333;
-      width: 200px;
-      text-align: center;
+    p {
+      font-size: 18px;
+      line-height: 1.6;
+      max-width: 800px;
+      margin: 20px auto;
+      text-align: justify;
     }
   </style>
 </head>
@@ -70,46 +50,19 @@
     <a href="prints.html">Prints</a>
   </div>
 
-  <div class="gallery" id="gallery"></div>
+  <h1>Sowerby's Botany</h1>
+  
+  <p>
+    James Sowerby (1757–1822) was a British naturalist and illustrator, known for his detailed and vivid illustrations of the natural world, particularly in the field of botany. His most famous work is the 36-volume "English Botany," a project that spanned nearly 25 years and included more than 2,000 hand-colored engravings of British plant species. His work remains a valuable resource for both scientists and historians.
+  </p>
 
-  <!-- Lightbox2 JavaScript -->
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
+  <p>
+    Sowerby’s botanical prints stand out for their scientific accuracy and artistic quality. He worked closely with prominent botanists of his time, such as Sir James Edward Smith, to ensure that the illustrations were not only beautiful but also informative. His contributions helped lay the groundwork for modern botanical illustration, and his prints are still sought after by collectors for their historic and artistic significance.
+  </p>
 
-  <script>
-    // Fetch the images JSON file
-    fetch('images.json')
-      .then(response => response.json())
-      .then(images => {
-        const galleryElement = document.getElementById('gallery');
-        images.forEach(image => {
-          // Create an anchor element to link to the full-size image
-          const linkElement = document.createElement('a');
-          linkElement.href = `images/${image.filename}`;
-          linkElement.setAttribute('data-lightbox', 'gallery');
-          linkElement.setAttribute('data-title', image.alt);
-
-          // Create an image element for the thumbnail
-          const imgElement = document.createElement('img');
-          imgElement.src = `images/${image.filename}`;
-          imgElement.alt = image.alt;
-
-          // Create a div for the caption text
-          const captionElement = document.createElement('div');
-          captionElement.classList.add('caption');
-          captionElement.textContent = image.alt;
-
-          // Create a gallery item div and append the image and caption
-          const galleryItem = document.createElement('div');
-          galleryItem.classList.add('gallery-item');
-          linkElement.appendChild(imgElement); // Wrap image with the link
-          galleryItem.appendChild(linkElement); // Add the link to the gallery item
-          galleryItem.appendChild(captionElement); // Add caption
-
-          galleryElement.appendChild(galleryItem); // Append to the gallery
-        });
-      })
-      .catch(error => console.error('Error loading images:', error));
-  </script>
+  <p>
+    This collection celebrates Sowerby's lasting impact on the world of botanical art, bringing his iconic prints to a new audience. Here, you’ll find a curated selection of these timeless works, available for viewing and purchase.
+  </p>
 
 </body>
 </html>
