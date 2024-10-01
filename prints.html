@@ -60,6 +60,19 @@
       width: 200px;
       text-align: center;
     }
+ /* Watermark styling */
+    .sold-watermark {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      font-size: 30px;
+      color: rgba(255, 0, 0, 0.7);
+      font-weight: bold;
+      text-transform: uppercase;
+      pointer-events: none; /* Prevent interaction with the watermark */
+    }
+    
   </style>
 </head>
 <body>
@@ -105,6 +118,14 @@
           galleryItem.appendChild(linkElement); // Add the link to the gallery item
           galleryItem.appendChild(captionElement); // Add caption
 
+          // If the item is sold, add the watermark
+          if (image.sold) {
+            const soldWatermark = document.createElement('div');
+            soldWatermark.classList.add('sold-watermark');
+            soldWatermark.textContent = 'SOLD';
+            galleryItem.appendChild(soldWatermark);
+          }
+          
           galleryElement.appendChild(galleryItem); // Append to the gallery
         });
       })
