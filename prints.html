@@ -61,18 +61,23 @@
       width: 200px;
       text-align: center;
     }
- /* Watermark styling */
-    .sold-watermark {
+  /* Sold Overlay styling */
+    .sold-overlay {
       position: absolute;
-      top: 50%;
-      left: 50%;
-      transform: translate(-50%, -50%);
-      font-size: 30px;
-      color: rgba(255, 0, 0, 0.7);
-      font-weight: bold;
-      text-transform: uppercase;
-      pointer-events: none; /* Prevent interaction with the watermark */
-      z-index: 10; /* Ensure the watermark appears above everything */
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      pointer-events: none; /* Prevent interaction with the overlay */
+      z-index: 10; /* Ensure the overlay appears above everything */
+    }
+    .sold-overlay img {
+      width: 100%; /* Make the overlay cover the entire thumbnail */
+      height: 100%;
+      object-fit: cover;
     }
     
   </style>
@@ -120,12 +125,17 @@
           galleryItem.appendChild(linkElement); // Add the link to the gallery item
           galleryItem.appendChild(captionElement); // Add caption
 
-          // If the item is sold, add the watermark
+         // If the item is sold, add the overlay
           if (image.sold) {
-            const soldWatermark = document.createElement('div');
-            soldWatermark.classList.add('sold-watermark');
-            soldWatermark.textContent = 'SOLD';
-            galleryItem.appendChild(soldWatermark);
+            const soldOverlay = document.createElement('div');
+            soldOverlay.classList.add('sold-overlay');
+
+            // Use the "SOLD" image as an overlay
+            const soldImg = document.createElement('img');
+            soldImg.src = 'Sold.png'; // Path to your SOLD image
+            soldOverlay.appendChild(soldImg);
+
+            galleryItem.appendChild(soldOverlay);
           }
           
           galleryElement.appendChild(galleryItem); // Append to the gallery
