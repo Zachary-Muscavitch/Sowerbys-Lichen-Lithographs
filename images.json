@@ -2,12 +2,12 @@
   {
     "filename": "160_Porina pertusa_Pertusaria communis.jpg",
     "alt": "160 Porina pertusa Pertusaria communis",
-    "sold": true
+    "sold": false
   },
   {
     "filename": "161_Porina hymena_Pertusaria fallax.jpg",
     "alt": "161 Porina hymena Pertusaria fallax",
-    "sold": true
+    "sold": false
   },
   {
     "filename": "162_Thelotrema lepadinum.jpg",
@@ -37,7 +37,7 @@
   {
     "filename": "167_Pyrenula.jpg",
     "alt": "167 Pyrenula",
-    "sold": true
+    "sold": false
   },
   {
     "filename": "168_Pyrenula nigrescens.jpg",
@@ -62,7 +62,7 @@
   {
     "filename": "172_Variolaria amara.jpg",
     "alt": "172 Variolaria amara",
-    "sold": true
+    "sold": false
   },
   {
     "filename": "173_Variolaria discoidea.jpg",
