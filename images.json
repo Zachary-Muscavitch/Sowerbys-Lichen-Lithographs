@@ -2,7 +2,7 @@
   {
     "filename": "160_Porina pertusa_Pertusaria communis.jpg",
     "alt": "160 Porina pertusa Pertusaria communis",
-    "sold": false
+    "sold": true
   },
   {
     "filename": "161_Porina hymena_Pertusaria fallax.jpg",
@@ -47,7 +47,7 @@
   {
     "filename": "169_Variolaria velata.jpg",
     "alt": "169 Variolaria velata",
-    "sold": false
+    "sold": true
   },
   {
     "filename": "170_Variolaria multipuncta.jpg",
@@ -97,7 +97,7 @@
   {
     "filename": "179_Urceolaria acharii.jpg",
     "alt": "179 Urceolaria acharii",
-    "sold": false
+    "sold": true
   },
   {
     "filename": "180_Urceolaria cyrtaspis.jpg",
@@ -167,12 +167,12 @@
   {
     "filename": "195_Lecanora sophodes.jpg",
     "alt": "195 Lecanora sophodes",
-    "sold": false
+    "sold": true
   },
   {
     "filename": "196_Lecanora ventosa.jpg",
     "alt": "196 Lecanora ventosa",
-    "sold": false
+    "sold": true
   },
   {
     "filename": "197_Lecanora  subfusca.jpg",
@@ -192,7 +192,7 @@
   {
     "filename": "200_Lecanora chloroleuca.jpg",
     "alt": "200 Lecanora chloroleuca",
-    "sold": false
+    "sold": true
   },
   {
     "filename": "201_Lecanora varia.jpg",
@@ -227,7 +227,7 @@
   {
     "filename": "207_Lecanora upsaliensis.jpg",
     "alt": "207 Lecanora upsaliensis",
-    "sold": false
+    "sold": true
   },
   {
     "filename": "208_Lecanora turneri.jpg",
@@ -287,7 +287,7 @@
   {
     "filename": "219_Lecanora coccina.jpg",
     "alt": "219 Lecanora coccina",
-    "sold": false
+    "sold": true
   },
   {
     "filename": "220_Lecanora eprigua.jpg",
@@ -302,7 +302,7 @@
   {
     "filename": "222_Lecanora saxicola.jpg",
     "alt": "222 Lecanora saxicola",
-    "sold": false
+    "sold": true
   },
   {
     "filename": "224_Lecanora elegans.jpg",
@@ -312,7 +312,7 @@
   {
     "filename": "225_Lecanora fulgens.jpg",
     "alt": "225 Lecanora fulgens",
-    "sold": false
+    "sold": true
   },
   {
     "filename": "226_Lecanora gelida.jpg",
@@ -342,7 +342,7 @@
   {
     "filename": "231_Lecanora crafia.jpg",
     "alt": "231 Lecanora crafia",
-    "sold": false
+    "sold": true
   },
   {
     "filename": "232_Lecanora polycarpa.jpg",
@@ -367,22 +367,22 @@
   {
     "filename": "236_Parmelia glomulifera.jpg",
     "alt": "236 Parmelia glomulifera",
-    "sold": false
+    "sold": true
   },
   {
     "filename": "237_Parmelia caperata.jpg",
     "alt": "237 Parmelia caperata",
-    "sold": false
+    "sold": true
   },
   {
     "filename": "238_Parmelia late-virens.jpg",
     "alt": "238 Parmelia late-virens",
-    "sold": false
+    "sold": true
   },
   {
     "filename": "239_Parmelia late-virens.jpg",
     "alt": "239 Parmelia late-virens",
-    "sold": false
+    "sold": true
   },
   {
     "filename": "240_Parmelia scortia.jpg",
@@ -392,7 +392,7 @@
   {
     "filename": "241_Parmelia perlata.jpg",
     "alt": "241 Parmelia perlata",
-    "sold": false
+    "sold": true
   },
   {
     "filename": "242_Parmelia perforata.jpg",
@@ -417,7 +417,7 @@
   {
     "filename": "246_Parmelia parietina.jpg",
     "alt": "246 Parmelia parietina",
-    "sold": false
+    "sold": true
   },
   {
     "filename": "247_Parmelia elaina.jpg",
@@ -442,7 +442,7 @@
   {
     "filename": "251_Parmelia rubiginosa.jpg",
     "alt": "251 Parmelia rubiginosa",
-    "sold": false
+    "sold": true
   },
   {
     "filename": "252_Parmelia omphalodes.jpg",
@@ -452,7 +452,7 @@
   {
     "filename": "253_Parmelia saxatilis.jpg",
     "alt": "253 Parmelia saxatilis",
-    "sold": false
+    "sold": true
   },
   {
     "filename": "254_Parmelia hookeri.jpg",
@@ -547,7 +547,7 @@
   {
     "filename": "272_Borrera ciliaris.jpg",
     "alt": "272 Borrera ciliaris",
-    "sold": false
+    "sold": true
   },
   {
     "filename": "273_Borrera tenella.jpg",
@@ -562,7 +562,7 @@
   {
     "filename": "275_Borrera furfuracea.jpg",
     "alt": "275 Borrera furfuracea",
-    "sold": false
+    "sold": true
   },
   {
     "filename": "276_Borrera atlantica.jpg",
@@ -612,7 +612,7 @@
   {
     "filename": "285_Sticta crocata.jpg",
     "alt": "285 Sticta crocata",
-    "sold": false
+    "sold": true
   },
   {
     "filename": "286_Sticta aurata.jpg",
@@ -622,12 +622,12 @@
   {
     "filename": "287_Sticta pulmonaria.jpg",
     "alt": "287 Sticta pulmonaria",
-    "sold": false
+    "sold": true
   },
   {
     "filename": "288_Sticta scrobiculata.jpg",
     "alt": "288 Sticta scrobiculata",
-    "sold": false
+    "sold": true
   },
   {
     "filename": "289_Sticta limbata.jpg",
@@ -637,12 +637,12 @@
   {
     "filename": "290_Sticta fuliginosa.jpg",
     "alt": "290 Sticta fuliginosa",
-    "sold": false
+    "sold": true
   },
   {
     "filename": "291_Sticta sylvatica.jpg",
     "alt": "291 Sticta sylvatica",
-    "sold": false
+    "sold": true
   },
   {
     "filename": "292_Peltidea venosa.jpg",
@@ -652,7 +652,7 @@
   {
     "filename": "293_Peltidea scutata.jpg",
     "alt": "293 Peltidea scutata",
-    "sold": false
+    "sold": true
   },
   {
     "filename": "294_Peltidea horizontalis.jpg",
@@ -662,12 +662,12 @@
   {
     "filename": "295_Peltidea aphthosa.jpg",
     "alt": "295 Peltidea aphthosa",
-    "sold": false
+    "sold": true
   },
   {
     "filename": "296_Peltidea canina.jpg",
     "alt": "296 Peltidea canina",
-    "sold": false
+    "sold": true
   },
   {
     "filename": "297_Peltidea rufescens.jpg",
@@ -682,7 +682,7 @@
   {
     "filename": "299_Nephroma resupinata.jpg",
     "alt": "299 Nephroma resupinata",
-    "sold": false
+    "sold": true
   },
   {
     "filename": "300_Nephroma parilis.jpg",
@@ -697,12 +697,12 @@
   {
     "filename": "302_Rocella fuciformis.jpg",
     "alt": "302 Rocella fuciformis",
-    "sold": false
+    "sold": true
   },
   {
     "filename": "303_Evernia prunastri.jpg",
     "alt": "303 Evernia prunastri",
-    "sold": false
+    "sold": true
   },
   {
     "filename": "304_Evernia prunastri ß. strictoceros.jpg",
@@ -717,7 +717,7 @@
   {
     "filename": "306_Cenomyce cespititia.jpg",
     "alt": "306 Cenomyce cespititia",
-    "sold": false
+    "sold": true
   },
   {
     "filename": "307_Cenomyce endiviafolia.jpg",
@@ -737,7 +737,7 @@
   {
     "filename": "311_Cenomyce pyxidata.jpg",
     "alt": "311 Cenomyce pyxidata",
-    "sold": false
+    "sold": true
   },
   {
     "filename": "312_Cenomyce fimbriata.jpg",
@@ -777,12 +777,12 @@
   {
     "filename": "319_Cenomyce coccifera.jpg",
     "alt": "319 Cenomyce coccifera",
-    "sold": false
+    "sold": true
   },
   {
     "filename": "320_Cenomyce bellidiflora.jpg",
     "alt": "320 Cenomyce bellidiflora",
-    "sold": false
+    "sold": true
   },
   {
     "filename": "322_Cenomyce delicata.jpg",
@@ -807,7 +807,7 @@
   {
     "filename": "326_Cenomyce rangiferina.jpg",
     "alt": "326 Cenomyce rangiferina",
-    "sold": false
+    "sold": true
   },
   {
     "filename": "327_Cenomnyce vermicularis.jpg",
@@ -852,7 +852,7 @@
   {
     "filename": "335_Stereocaulon paschale.jpg",
     "alt": "335 Stereocaulon paschale",
-    "sold": false
+    "sold": true
   },
   {
     "filename": "336_Spharophoron coralloides.jpg",
