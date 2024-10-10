@@ -397,12 +397,12 @@
   {
     "filename": "242_Parmelia perforata.jpg",
     "alt": "242 Parmelia perforata",
-    "sold": false
+    "sold": true
   },
   {
     "filename": "243_Parmelia tiliacea.jpg",
     "alt": "243 Parmelia tiliacea",
-    "sold": false
+    "sold": true
   },
   {
     "filename": "244_Parmelia conjugata.jpg",
