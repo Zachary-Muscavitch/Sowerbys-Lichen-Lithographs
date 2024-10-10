@@ -17,7 +17,7 @@
   {
     "filename": "163_Thelotrema exanthematicum.jpg",
     "alt": "163 Thelotrema exanthematicum",
-    "sold": false
+    "sold": true
   },
   {
     "filename": "164_Thelotrema agelaum.jpg",
@@ -62,7 +62,7 @@
   {
     "filename": "172_Variolaria amara.jpg",
     "alt": "172 Variolaria amara",
-    "sold": false
+    "sold": true
   },
   {
     "filename": "173_Variolaria discoidea.jpg",
@@ -132,7 +132,7 @@
   {
     "filename": "186_Urceolaria hoffmanni.jpg",
     "alt": "186 Urceolaria hoffmanni",
-    "sold": false
+    "sold": true
   },
   {
     "filename": "188_Urceloaria gapsi.jpg",
@@ -317,7 +317,7 @@
   {
     "filename": "226_Lecanora gelida.jpg",
     "alt": "226 Lecanora gelida",
-    "sold": false
+    "sold": true
   },
   {
     "filename": "227_Lecanora circinniata.jpg",
@@ -632,7 +632,7 @@
   {
     "filename": "289_Sticta limbata.jpg",
     "alt": "289 Sticta limbata",
-    "sold": false
+    "sold": true
   },
   {
     "filename": "290_Sticta fuliginosa.jpg",
@@ -692,7 +692,7 @@
   {
     "filename": "301_Rioccella tinctoria.jpg",
     "alt": "301 Roccella tinctoria",
-    "sold": false
+    "sold": true
   },
   {
     "filename": "302_Rocella fuciformis.jpg",
@@ -812,12 +812,12 @@
   {
     "filename": "327_Cenomnyce vermicularis.jpg",
     "alt": "327 Cenomyce vermicularis",
-    "sold": false
+    "sold": true
   },
   {
     "filename": "328_Baeomyces rufus.jpg",
     "alt": "328 Baeomyces rufus",
-    "sold": false
+    "sold": true
   },
   {
     "filename": "329_Baeomyces roseus.jpg",
@@ -867,6 +867,6 @@
   {
     "filename": "338_Spharophoron compressum.jpg",
     "alt": "338 Spharophoron compressum",
-    "sold": false
+    "sold": true
   }
 ]
