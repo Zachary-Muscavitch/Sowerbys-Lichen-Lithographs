@@ -22,7 +22,7 @@
   {
     "filename": "164_Thelotrema agelaum.jpg",
     "alt": "164 Thelotrema agelaum",
-    "sold": false
+    "sold": true
   },
   {
     "filename": "165_Thelotrema melaleucum.jpg",
@@ -177,7 +177,7 @@
   {
     "filename": "197_Lecanora  subfusca.jpg",
     "alt": "197 Lecanora  subfusca",
-    "sold": false
+    "sold": true
   },
   {
     "filename": "198_Lecanora frustulosa.jpg",
@@ -197,7 +197,7 @@
   {
     "filename": "201_Lecanora varia.jpg",
     "alt": "201 Lecanora varia",
-    "sold": false
+    "sold": true
   },
   {
     "filename": "202_Lecanora rubricosa.jpg",
@@ -207,7 +207,7 @@
   {
     "filename": "203_Lecanora tuberculosa.jpg",
     "alt": "203 Lecanora tuberculosa",
-    "sold": false
+    "sold": true
   },
   {
     "filename": "204_Lecanora glaucoma.jpg",
@@ -507,7 +507,7 @@
   {
     "filename": "264_Parmelia lavigata.jpg",
     "alt": "264 Parmelia lavigata",
-    "sold": false
+    "sold": true
   },
   {
     "filename": "265_Parmelia pulverulenta.jpg",
@@ -537,7 +537,7 @@
   {
     "filename": "270_Parmelia physodes.jpg",
     "alt": "270 Parmelia physodes",
-    "sold": false
+    "sold": true
   },
   {
     "filename": "271_Parmelia diahypa.jpg",
@@ -847,7 +847,7 @@
   {
     "filename": "334_Isidiium oculatum.jpg",
     "alt": "334 Isidium oculatum",
-    "sold": false
+    "sold": true
   },
   {
     "filename": "335_Stereocaulon paschale.jpg",
