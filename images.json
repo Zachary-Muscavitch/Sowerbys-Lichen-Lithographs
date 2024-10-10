@@ -617,7 +617,7 @@
   {
     "filename": "286_Sticta aurata.jpg",
     "alt": "286 Sticta aurata",
-    "sold": false
+    "sold": true
   },
   {
     "filename": "287_Sticta pulmonaria.jpg",
@@ -672,7 +672,7 @@
   {
     "filename": "297_Peltidea rufescens.jpg",
     "alt": "297 Peltidea rufescens",
-    "sold": false
+    "sold": true
   },
   {
     "filename": "298_Peltidea spuria.jpg",
