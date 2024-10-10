@@ -347,7 +347,7 @@
   {
     "filename": "232_Lecanora polycarpa.jpg",
     "alt": "232 Lecanora polycarpa",
-    "sold": false
+    "sold": true
   },
   {
     "filename": "233_Lecanora hypnorum.jpg",
@@ -407,7 +407,7 @@
   {
     "filename": "244_Parmelia conjugata.jpg",
     "alt": "244 Parmelia conjugata",
-    "sold": false
+    "sold": true
   },
   {
     "filename": "245_Parmelia olivacea.jpg",
@@ -502,7 +502,7 @@
   {
     "filename": "263_Parmelia speciosa.jpg",
     "alt": "263 Parmelia speciosa",
-    "sold": false
+    "sold": true
   },
   {
     "filename": "264_Parmelia lavigata.jpg",
@@ -687,7 +687,7 @@
   {
     "filename": "300_Nephroma parilis.jpg",
     "alt": "300 Nephroma parilis",
-    "sold": false
+    "sold": true
   },
   {
     "filename": "301_Rioccella tinctoria.jpg",
@@ -752,7 +752,7 @@
   {
     "filename": "314_Cenomyce cornuta.jpg",
     "alt": "314 Cenomyce cornuta",
-    "sold": false
+    "sold": true
   },
   {
     "filename": "315_Cenomyce gracilis.jpg",
@@ -792,7 +792,7 @@
   {
     "filename": "323_Cenomyce microphylla.jpg",
     "alt": "323 Cenomyce microphylla",
-    "sold": false
+    "sold": true
   },
   {
     "filename": "324_Cenomyce unciallis.jpg",
@@ -857,7 +857,7 @@
   {
     "filename": "336_Spharophoron coralloides.jpg",
     "alt": "336 Spharophoron coralloides",
-    "sold": false
+    "sold": true
   },
   {
     "filename": "337_Spharophoron fragile.jpg",
