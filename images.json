@@ -222,7 +222,7 @@
   {
     "filename": "206_Lecanora perella.jpg",
     "alt": "206 Lecanora perella",
-    "sold": false
+    "sold": true
   },
   {
     "filename": "207_Lecanora upsaliensis.jpg",
@@ -582,7 +582,7 @@
   {
     "filename": "279_Cetraria pinastris.jpg",
     "alt": "279 Cetraria pinastris",
-    "sold": false
+    "sold": true
   },
   {
     "filename": "280_Cetraria sepinicola.jpg",
