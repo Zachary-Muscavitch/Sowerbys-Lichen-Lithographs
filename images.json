@@ -37,7 +37,7 @@
   {
     "filename": "171_Variolaria globulifera.jpg",
     "alt": "171 Variolaria globulifera",
-    "sold": false
+    "sold": true
   },
   {
     "filename": "173_Variolaria discoidea.jpg",
@@ -87,7 +87,7 @@
   {
     "filename": "183_Urceolaria multipunctata.jpg",
     "alt": "183 Urceolaria multipunctata",
-    "sold": false
+    "sold": true
   },
   {
     "filename": "184_Urceolaria scruposa.jpg",
@@ -142,7 +142,7 @@
   {
     "filename": "204_Lecanora glaucoma.jpg",
     "alt": "204 Lecanora glaucoma",
-    "sold": false
+    "sold": true
   },
   {
     "filename": "205_Lecanora albella.jpg",
@@ -337,7 +337,7 @@
   {
     "filename": "266_Parmelia stellaris.jpg",
     "alt": "266 Parmelia stellaris",
-    "sold": false
+    "sold": true
   },
   {
     "filename": "267_Parmelia casia.jpg",
@@ -402,12 +402,12 @@
   {
     "filename": "283_Cetraria nivalis.jpg",
     "alt": "283 Cetraria nivalis",
-    "sold": false
+    "sold": true
   },
   {
     "filename": "284_Cetrarla islandica.jpg",
     "alt": "284 Cetrarla islandica",
-    "sold": false
+    "sold": true
   },
   {
     "filename": "294_Peltidea horizontalis.jpg",
@@ -442,7 +442,7 @@
   {
     "filename": "312_Cenomyce fimbriata.jpg",
     "alt": "312 Cenomyce fimbriata",
-    "sold": false
+    "sold": true
   },
   {
     "filename": "313_Cenomyce radiata.jpg",
@@ -452,7 +452,7 @@
   {
     "filename": "315_Cenomyce gracilis.jpg",
     "alt": "315 Cenomyce gracilis",
-    "sold": false
+    "sold": true
   },
   {
     "filename": "316_Cenomyce bacillaris.jpg",
