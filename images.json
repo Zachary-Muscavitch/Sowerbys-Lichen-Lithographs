@@ -7,7 +7,7 @@
   {
     "filename": "162_Thelotrema lepadinum.jpg",
     "alt": "162 Thelotrema lepadinum",
-    "sold": false
+    "sold": true
   },
   {
     "filename": "165_Thelotrema melaleucum.jpg",
@@ -397,7 +397,7 @@
   {
     "filename": "282_Cetraria fallax.jpg",
     "alt": "282 Cetraria fallax",
-    "sold": false
+    "sold": true
   },
   {
     "filename": "283_Cetraria nivalis.jpg",
@@ -437,7 +437,7 @@
   {
     "filename": "309_Cenomyce cervicornis.jpg",
     "alt": "309 Cenomyce cervicornis",
-    "sold": false
+    "sold": true
   },
   {
     "filename": "312_Cenomyce fimbriata.jpg",
