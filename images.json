@@ -317,7 +317,7 @@
   {
     "filename": "260_Parmelia sinuosa.jpg",
     "alt": "260 Parmelia sinuosa",
-    "sold": false
+    "sold": true
   },
   {
     "filename": "261_Parmelia aleurites.jpg",
@@ -332,7 +332,7 @@
   {
     "filename": "265_Parmelia pulverulenta.jpg",
     "alt": "265 Parmelia pulverulenta",
-    "sold": false
+    "sold": true
   },
   {
     "filename": "266_Parmelia stellaris.jpg",
@@ -467,7 +467,7 @@
   {
     "filename": "318_Cenomyce deformis.jpg",
     "alt": "318 Cenomyce deformis",
-    "sold": false
+    "sold": true
   },
   {
     "filename": "322_Cenomyce delicata.jpg",
@@ -477,7 +477,7 @@
   {
     "filename": "324_Cenomyce unciallis.jpg",
     "alt": "324 Cenomyce unciallis",
-    "sold": false
+    "sold": true
   },
   {
     "filename": "325_Cenomyce pungens.jpg",
