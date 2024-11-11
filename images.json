@@ -82,7 +82,7 @@
   {
     "filename": "182_Urceolaria cinerea.jpg",
     "alt": "182 Urceolaria cinerea",
-    "sold": false
+    "sold": true
   },
   {
     "filename": "183_Urceolaria multipunctata.jpg",
@@ -132,7 +132,7 @@
   {
     "filename": "199_Lecanora effusa.jpg",
     "alt": "199 Lecanora effusa",
-    "sold": false
+    "sold": true
   },
   {
     "filename": "202_Lecanora rubricosa.jpg",
@@ -167,12 +167,12 @@
   {
     "filename": "211_Lecanora frigida.jpg",
     "alt": "211 Lecanora frigida",
-    "sold": false
+    "sold": true
   },
   {
     "filename": "212_Lecanora stonei.jpg",
     "alt": "212 Lecanora stonei",
-    "sold": false
+    "sold": true
   },
   {
     "filename": "213_Lecanora cerina.jpg",
@@ -212,7 +212,7 @@
   {
     "filename": "224_Lecanora elegans.jpg",
     "alt": "224 Lecanora elegans",
-    "sold": false
+    "sold": true
   },
   {
     "filename": "227_Lecanora circinniata.jpg",
@@ -367,7 +367,7 @@
   {
     "filename": "274_Borrera leucomella.jpg",
     "alt": "274 Borrera leucomella",
-    "sold": false
+    "sold": true
   },
   {
     "filename": "276_Borrera atlantica.jpg",
@@ -377,7 +377,7 @@
   {
     "filename": "277_Borrera chrysophthalma.jpg",
     "alt": "277 Borrera chrysophthalma",
-    "sold": false
+    "sold": true
   },
   {
     "filename": "278_Borrera flavicans.jpg",
@@ -412,7 +412,7 @@
   {
     "filename": "294_Peltidea horizontalis.jpg",
     "alt": "294 Peltidea horizontalis",
-    "sold": false
+    "sold": true
   },
   {
     "filename": "304_Evernia prunastri ß. strictoceros.jpg",
@@ -447,7 +447,7 @@
   {
     "filename": "313_Cenomyce radiata.jpg",
     "alt": "313 Cenomyce radiata",
-    "sold": false
+    "sold": true
   },
   {
     "filename": "315_Cenomyce gracilis.jpg",
@@ -457,7 +457,7 @@
   {
     "filename": "316_Cenomyce bacillaris.jpg",
     "alt": "316 Cenomyce bacillaris",
-    "sold": false
+    "sold": true
   },
   {
     "filename": "317_Cenomyce digitata.jpg",
