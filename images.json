@@ -277,7 +277,7 @@
   {
     "filename": "250_Parmelia plumbea.jpg",
     "alt": "250 Parmelia plumbea",
-    "sold": false
+    "sold": true
   },
   {
     "filename": "252_Parmelia omphalodes.jpg",
@@ -392,7 +392,7 @@
   {
     "filename": "281_Cetraria glauca.jpg",
     "alt": "281 Cetraria glauca",
-    "sold": false
+    "sold": true
   },
   {
     "filename": "282_Cetraria fallax.jpg",
@@ -507,6 +507,6 @@
   {
     "filename": "337_Spharophoron fragile.jpg",
     "alt": "337 Spharophoron fragile",
-    "sold": false
+    "sold": true
   }
 ]
