@@ -282,7 +282,7 @@
   {
     "filename": "252_Parmelia omphalodes.jpg",
     "alt": "252 Parmelia omphalodes",
-    "sold": false
+    "sold": true
   },
   {
     "filename": "254_Parmelia hookeri.jpg",
@@ -327,7 +327,7 @@
   {
     "filename": "262_Parmellia conspersa.jpg",
     "alt": "262 Parmellia conspersa",
-    "sold": false
+    "sold": true
   },
   {
     "filename": "265_Parmelia pulverulenta.jpg",
@@ -427,7 +427,7 @@
   {
     "filename": "307_Cenomyce endiviafolia.jpg",
     "alt": "307 Cenomyce endiviafolia",
-    "sold": false
+    "sold": true
   },
   {
     "filename": "308_Cenomyce aleicornis.jpg",
