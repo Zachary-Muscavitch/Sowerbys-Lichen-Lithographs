@@ -207,7 +207,7 @@
   {
     "filename": "221_Lecanora lentigera.jpg",
     "alt": "221 Lecanora lentigera",
-    "sold": false
+    "sold": true
   },
   {
     "filename": "224_Lecanora elegans.jpg",
@@ -432,7 +432,7 @@
   {
     "filename": "308_Cenomyce aleicornis.jpg",
     "alt": "308 Cenomyce aleicornis",
-    "sold": false
+    "sold": true
   },
   {
     "filename": "309_Cenomyce cervicornis.jpg",
