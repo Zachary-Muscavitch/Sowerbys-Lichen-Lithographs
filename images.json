@@ -440,14 +440,14 @@
     "sold": true
   },
   {
-    "filename": "310_Cenomyce anoma_.jpg",
-    "alt": "310 Cenomyce anoma",
-    "sold": true
-  },
-  {
     "filename": "309_Cenomyce cervicornis.jpg",
     "alt": "309 Cenomyce cervicornis",
     "sold": true
+  },
+  {
+    "filename": "310_Cenomyce anoma_.jpg",
+    "alt": "310 Cenomyce anoma",
+    "sold": false
   },
   {
     "filename": "312_Cenomyce fimbriata.jpg",
