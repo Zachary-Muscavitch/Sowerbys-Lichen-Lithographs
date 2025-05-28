@@ -98,6 +98,11 @@
     "filename": "185_Urceolaria diacapsis.jpg",
     "alt": "185 Urceolaria diacapsis",
     "sold": false
+  }, 
+  {
+    "filename": "187_Urceolaria ceuthocarpa_Pertusaria ceuthocarpa.jpg",
+    "alt": "187 Urceolaria ceuthocarpa",
+    "sold": false
   },
   {
     "filename": "188_Urceloaria gapsi.jpg",
@@ -435,6 +440,11 @@
     "sold": true
   },
   {
+    "filename": "310_Cenomyce anoma_.jpg",
+    "alt": "310 Cenomyce anoma",
+    "sold": true
+  },
+  {
     "filename": "309_Cenomyce cervicornis.jpg",
     "alt": "309 Cenomyce cervicornis",
     "sold": true
@@ -468,6 +478,11 @@
     "filename": "318_Cenomyce deformis.jpg",
     "alt": "318 Cenomyce deformis",
     "sold": true
+  },
+  {
+    "filename": "321_Cenomyce sparafia___.jpg",
+    "alt": "321 Cenomyce sparafia",
+    "sold": false
   },
   {
     "filename": "322_Cenomyce delicata.jpg",
