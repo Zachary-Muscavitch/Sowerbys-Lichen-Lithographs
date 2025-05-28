@@ -42,7 +42,7 @@
   {
     "filename": "173_Variolaria discoidea.jpg",
     "alt": "173 Variolaria discoidea",
-    "sold": false
+    "sold": true
   },
   {
     "filename": "174_Variolaria aspergila.jpg",
@@ -137,7 +137,7 @@
   {
     "filename": "202_Lecanora rubricosa.jpg",
     "alt": "202 Lecanora rubricosa",
-    "sold": false
+    "sold": true
   },
   {
     "filename": "204_Lecanora glaucoma.jpg",
@@ -147,7 +147,7 @@
   {
     "filename": "205_Lecanora albella.jpg",
     "alt": "205 Lecanora albella",
-    "sold": false
+    "sold": true
   },
   {
     "filename": "208_Lecanora turneri.jpg",
@@ -177,7 +177,7 @@
   {
     "filename": "213_Lecanora cerina.jpg",
     "alt": "213 Lecanora cerina",
-    "sold": false
+    "sold": true
   },
   {
     "filename": "214_Lecanora vitellina.jpg",
@@ -312,7 +312,7 @@
   {
     "filename": "259_Parmelia recurva.jpg",
     "alt": "259 Parmelia recurva",
-    "sold": false
+    "sold": true
   },
   {
     "filename": "260_Parmelia sinuosa.jpg",
@@ -322,7 +322,7 @@
   {
     "filename": "261_Parmelia aleurites.jpg",
     "alt": "261 Parmelia aleurites",
-    "sold": false
+    "sold": true
   },
   {
     "filename": "262_Parmellia conspersa.jpg",
@@ -352,7 +352,7 @@
   {
     "filename": "269_Parmelia virella.jpg",
     "alt": "269 Parmelia virella",
-    "sold": false
+    "sold": true
   },
   {
     "filename": "271_Parmelia diahypa.jpg",
@@ -362,7 +362,7 @@
   {
     "filename": "273_Borrera tenella.jpg",
     "alt": "273 Borrera tenella",
-    "sold": false
+    "sold": true
   },
   {
     "filename": "274_Borrera leucomella.jpg",
@@ -492,7 +492,7 @@
   {
     "filename": "331_Isidium westringii.jpg",
     "alt": "331 Isidium westringii",
-    "sold": false
+    "sold": true
   },
   {
     "filename": "332_Isidium westringii ß punctatum.jpg",
